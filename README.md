@@ -8,7 +8,7 @@ A idéia que tive foi criar uma consultoria de aparelhos apple. Algo fictício m
 toda a estrutura de contactar e elaboração de um Orçamento.
 
 Após confirmação de vocês para usar o framework, comecei a buscar por templates 
-(https://www.creative-tim.com/templates/angular-bootstrap)  para ajudar nas criatividade. Foram muitos 
+(https://www.creative-tim.com/templates/angular-bootstrap)  para ajudar nas criatividad, Foram muitos 
 erros e dor de cabeça para escrever um código html puro transcrevendo em componentes, e foi com a ajuda 
 de alguns vídeos do youtube que entendi como fazer essa transição (https://www.youtube.com/watch?v=Ym_T0mvvc7c).
 
