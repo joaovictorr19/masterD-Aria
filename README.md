@@ -16,7 +16,7 @@ de alguns vídeos do youtube que entendi como fazer essa transição (https://ww
 A estrutura do projeto mantem estrutura angular usando um index principal navegando pela pagina por parametros
 ID na url, contem um SCSS 'folha de estilo' global, onde todos os estilos das páginas se encontram.
 na raiz do projeto também é possivel acessar a página public que fica os arquivos compilados para o servidor 
-(no angular o nome dessa pasta é encontrada com o nome 'dist' ou 'www'). Scrips JS e pacotes PHP foram impotados 
+(no angular o nome dessa pasta é encontrada com o nome 'dist' ou 'www'). Scrips JS e pacotes PHP foram importados 
 apenas para fazer pequenas animações com o bootstrap.
 
 
